@@ -13,7 +13,7 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- tasks: DotNetCoreCLI@2
+- task: DotNetCoreCLI@2
   inputs: 
     command: test
     project: '/SimpleWebHalloWorld.Test/*.csproj'
