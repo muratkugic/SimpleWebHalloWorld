@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "icbHFIiISWYjXy+im0va2wNYSCy7AeTTjLNPKTP8aadcU8xlmaqYenS7BSF3VG25azfG/aA1UhhSKMtc/GZQ8g==",
+  "dgSpecHash": "tm5KVNR8JaFKCQB/B9NVeXL7QfmDLDgmSayTcGcfyt3/VlEfFQGNJV42H2JXNZJMpFjuwaOY/5TGlsIaQCI57g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\willi\\Dev\\DevOpsTest\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj",
+  "projectFilePath": "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\willi\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

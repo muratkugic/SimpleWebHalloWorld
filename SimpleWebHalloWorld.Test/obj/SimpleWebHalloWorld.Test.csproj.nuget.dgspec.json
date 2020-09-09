@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\willi\\Dev\\DevOpsTest\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj": {}
+    "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\willi\\Dev\\DevOpsTest\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj": {
+    "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\willi\\Dev\\DevOpsTest\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj",
+        "projectUniqueName": "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj",
         "projectName": "SimpleWebHalloWorld.Test",
-        "projectPath": "C:\\Users\\willi\\Dev\\DevOpsTest\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj",
+        "projectPath": "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\willi\\Dev\\DevOpsTest\\SimpleWebHalloWorld.Test\\obj\\",
+        "outputPath": "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\willi\\Dev\\DevOpsTest\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj": {
-                "projectPath": "C:\\Users\\willi\\Dev\\DevOpsTest\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj"
+              "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj": {
+                "projectPath": "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\willi\\Dev\\DevOpsTest\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj": {
+    "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\willi\\Dev\\DevOpsTest\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj",
         "projectName": "SimpleWebHalloWorld",
-        "projectPath": "C:\\Users\\willi\\Dev\\DevOpsTest\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj",
+        "projectPath": "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\willi\\Dev\\DevOpsTest\\SimpleWebHalloWorld\\obj\\",
+        "outputPath": "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
