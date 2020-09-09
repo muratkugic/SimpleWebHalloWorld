@@ -13,7 +13,7 @@ namespace SimpleWebHalloWorld.Test
         public void ShouldReturnHelloWorld()
         {
             var controller = new HomeController();
-            var result = controller.ReturnHelloWorld("Hello This test fails");
+            var result = controller.ReturnHelloWorld("Hello World");
             Assert.True(result);
 
         }
