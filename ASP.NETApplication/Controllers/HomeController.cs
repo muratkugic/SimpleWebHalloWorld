@@ -13,13 +13,23 @@ namespace SimpleWebHalloWorld.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
+        //public HomeController(ILogger<HomeController> logger)
+        //{
+        //    _logger = logger;
+        //}
 
+        public bool ReturnHelloWorld(string helloWorld)
+        {
+            if(helloWorld == "Hello World")
+            {
+                return true;
+            }
+            throw new NotImplementedException("Not fully implemented");
+        }
         public IActionResult Index()
         {
+            var output = ReturnHelloWorld("Hello World");
+            ViewData["Message"] += " " + output;
             return View();
         }
 
