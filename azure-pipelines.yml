@@ -11,8 +11,8 @@ resources:
 variables:
   # Container registry service connection established during pipeline creation
   dockerRegistryServiceConnection: '86165ec9-04ef-4cc5-8e11-3421b4371bc0'
-  imageRepository: 'dockerimagedevops'
-  containerRegistry: 'williamscontainerregistry.azurecr.io'
+  imageRepository: 'nojjancontainerregistry'
+  containerRegistry: 'nojjancontainerregistry.azurecr.io'
   dockerfilePath: '**/Dockerfile'
   tag: '$(Build.BuildId)'
 
