@@ -20,21 +20,19 @@ variables:
   vmImageName: 'ubuntu-latest'
 
 stages:
-- stage: Test
-  jobs:
+
+- stage: Build
+  displayName: Build and push stage
+  jobs:  
   - job: TestOnWindows
-    steps:
-    - task: DotNetCoreCLI@2
+  steps:
+  - task: DotNetCoreCLI@2
     inputs: 
         command: test
         project: '/SimpleWebHalloWorld.Test/*.csproj'
         arguments: '--configuration $(buildConfiguration)'
 - script: dotnet build --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
-
-- stage: Build
-  displayName: Build and push stage
-  jobs:  
   - job: Build
     displayName: Build
     pool:
