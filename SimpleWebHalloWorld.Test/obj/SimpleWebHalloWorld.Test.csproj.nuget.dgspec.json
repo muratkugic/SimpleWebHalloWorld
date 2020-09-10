@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj": {}
+    "C:\\dev\\testing\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj": {
+    "C:\\dev\\testing\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj",
+        "projectUniqueName": "C:\\dev\\testing\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj",
         "projectName": "SimpleWebHalloWorld.Test",
-        "projectPath": "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj",
-        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\obj\\",
+        "projectPath": "C:\\dev\\testing\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\SimpleWebHalloWorld.Test.csproj",
+        "packagesPath": "C:\\Users\\mkugi\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\testing\\SimpleWebHalloWorld\\SimpleWebHalloWorld.Test\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\mkugi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -32,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj": {
-                "projectPath": "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj"
+              "C:\\dev\\testing\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj": {
+                "projectPath": "C:\\dev\\testing\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj"
               }
             }
           }
@@ -79,9 +74,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -90,23 +82,18 @@
         }
       }
     },
-    "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj": {
+    "C:\\dev\\testing\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj",
+        "projectUniqueName": "C:\\dev\\testing\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj",
         "projectName": "SimpleWebHalloWorld",
-        "projectPath": "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj",
-        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\willi\\Dev\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\obj\\",
+        "projectPath": "C:\\dev\\testing\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\SimpleWebHalloWorld.csproj",
+        "packagesPath": "C:\\Users\\mkugi\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\testing\\SimpleWebHalloWorld\\SimpleWebHalloWorld\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\mkugi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
