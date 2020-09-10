@@ -20,17 +20,6 @@ variables:
   vmImageName: 'ubuntu-latest'
 
 stages:
-- stage:
-    displayName: RunTests
-    jobs:
-    - job: Test
-    displayName: Test
-    pool:
-     vmImage: $(vmImageName)
-    steps:
-    - task: DotNetCoreCLI@2
-    
-
 - stage: Build
   displayName: Build and push stage
   jobs:  
