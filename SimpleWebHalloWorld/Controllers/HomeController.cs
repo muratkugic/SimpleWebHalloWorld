@@ -28,7 +28,7 @@ namespace SimpleWebHalloWorld.Controllers
         }
         public IActionResult Index()
         {
-            var output = ReturnHelloWorld("Hello World");
+            var output = ReturnHelloWorld("Hello dee");
             ViewData["Message"] += " " + output;
             return View();
         }
